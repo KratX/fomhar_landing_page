@@ -1,4 +1,4 @@
-import BannerSection from '../../components/banner-section';
+// import BannerSection from '../../components/banner-section';
 // import ProductCarousel from '../../components/best-section';
 import CardSection from '../../components/card-section';
 import ClientsSection from '../../components/clients-section';
@@ -28,7 +28,7 @@ export default function Home() {
         <section id="products-section">
           <PopularSkincare />
         </section>
-        <BannerSection />
+        {/* <BannerSection /> */}
         <section id="card-section">
           <CardSection />
         </section>
