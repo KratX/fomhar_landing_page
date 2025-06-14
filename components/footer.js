@@ -667,7 +667,7 @@ export default function Footer() {
                             initial="hidden"
                             animate={controls}
                         >
-                            <h2 className="mb-3 text-sm font-semibold text-white">Made with love by <a className="text-blue-600" href="https://github.com/KratX">Kartik</a></h2>
+                            <h2 className="mb-3 text-2xl font-bold text-white font-bardley">Made with love by <a className="text-blue-600" href="https://github.com/KratX">Kartik</a></h2>
                             <div className="flex space-x-4">
                                 {socialLinks.map((social) => (
                                     <a
