@@ -576,7 +576,7 @@ export default function Footer() {
                                     <div>
                                         <p className="text-sm text-gray-400">Email</p>
                                         <a href="mailto:support@fomhar.com" className="text-white transition-colors hover:text-purple-300">
-                                            support@fomhar.com
+                                            kartikrawat9@gmail.com
                                         </a>
                                     </div>
                                 </motion.li>
