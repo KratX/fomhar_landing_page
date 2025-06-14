@@ -21,10 +21,9 @@ export default function Home() {
       <main>
         <HeroSection />
         <MarqueeBar />
-        <PromoSection />
-        {/* <section id="best-section">
-          <ProductCarousel />
-        </section> */}
+        <section id="best-section">
+          <PromoSection />
+        </section>
         <section id="products-section">
           <PopularSkincare />
         </section>
