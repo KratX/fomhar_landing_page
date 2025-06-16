@@ -34,8 +34,8 @@ const montserrat = localFont({
 })
 
 export const metadata = {
-  title: 'FOHMAR',
-  description: 'Hi, this is an easter egg for you. You can find the source code at "https://github.com/KratX"',
+  title: 'FOMHAR',
+  description: 'Hi, this is an easter egg for you. Hire me at "kartikrawat9@gmail.com"',
 }
 
 export default function RootLayout({ children }) {
