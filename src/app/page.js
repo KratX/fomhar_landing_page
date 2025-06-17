@@ -13,10 +13,14 @@ import PromoSection from '../../components/promo-section';
 // import OurReview from '../../components/reviews-section';
 import TestimonialsSection from '../../components/testimonial-section';
 import WhatMakesUsBetterSection from '../../components/what-makes-us-better';
+import Head from 'next/head';
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen bg-white">
+      <Head>
+        <link rel="icon" href="/favicon.png" />
+      </Head>
       <Navbar />
       <main>
         <HeroSection />

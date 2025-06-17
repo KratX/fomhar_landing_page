@@ -36,14 +36,15 @@ const montserrat = localFont({
 export const metadata = {
   title: 'FOMHAR',
   description: 'Hi, this is an easter egg for you. Hire me at "kartikrawat9@gmail.com"',
+  icon: "/favicon.ico"
+
 }
 
 export default function RootLayout({ children }) {
   return (
     <html
       lang="en"
-      className={`${achemost.variable} ${bradley.variable} ${helma.variable} ${montserrat.variable}`}
-    >
+      className={`${achemost.variable} ${bradley.variable} ${helma.variable} ${montserrat.variable}`}>
       <body>{children}</body>
     </html>
   )
