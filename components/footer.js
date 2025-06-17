@@ -601,7 +601,7 @@ export default function Footer() {
                                     <div>
                                         <p className="text-sm text-gray-400">Phone</p>
                                         <a href="tel:+14487775483" className="text-white transition-colors hover:text-pink-300">
-                                            +91 44 8777 ****
+                                            +91 8391 9047 78
                                         </a>
                                     </div>
                                 </motion.li>
@@ -626,7 +626,10 @@ export default function Footer() {
                                     </div>
                                     <div>
                                         <p className="text-sm text-gray-400">Address</p>
-                                        <p className="text-white">In the Fairyland</p>
+                                        <p className="text-white">N3, 3rd Floor, Above
+                                            Flexpod cowork,
+                                            South Extn, Part-1 <br />
+                                            New Delhi, 110049</p>
                                     </div>
                                 </motion.li>
                             </ul>
